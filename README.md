@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dafnckstudio-dafnckmachine-agf-2-0-badge.png)](https://mseep.ai/app/dafnckstudio-dafnckmachine-agf-2-0)
+
 # 🚀 Agentic Coding Framework, powered by Pheromind 
 
 [[[[ SUPPORT : https://paypal.me/GarethSimono ]]]
